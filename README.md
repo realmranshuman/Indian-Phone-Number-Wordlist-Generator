@@ -84,4 +84,4 @@ The tool's creators and maintainers are not responsible for any misuse or illega
 
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/realmranshuman/Indian-Phone-Number-Wordlist-Generator/blob/main/LICENSE).
